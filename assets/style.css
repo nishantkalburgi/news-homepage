@@ -1,0 +1,251 @@
+body{
+    background-color: ch;
+    font-family: sans-serif;
+}
+
+.logo{
+    padding-left: 2rem;
+}
+
+.designimg{
+    width: 55%;
+    padding-top: 3rem;
+    padding-right: 3rem;
+    float: left;
+    position: relative;
+    left: 2.2rem;
+
+}
+
+.middlemain{
+    text-align: right;
+}
+
+.main{
+    text-align: left;
+}
+
+.footer{
+    text-decoration: none;
+    margin: 2rem;
+    position: relative;
+    bottom: 27px;
+    right: 2.5rem;
+    color: darkgray;
+}
+
+.topmain{
+    margin: 3.75rem;
+}
+
+.mh{
+    position: relative;
+    left: 2rem;
+    font-size: 4rem;
+    width: 30%;
+    right: 5rem;
+    text-align: left;
+    top: 2rem;
+}
+
+.mpa{
+    width: 25%;
+    position: relative;
+    left: 22rem;
+    bottom: 15rem;
+    text-align: left;
+    padding-left: 3rem;
+    padding-top: 1.5rem;
+    line-height: 1.2;
+    font-size: 1.2rem;
+    color: slategray;
+}
+
+.btn {
+    background: #9c254d;
+    background-image: -webkit-linear-gradient(top, #9c254d, #d23369);
+    background-image: -moz-linear-gradient(top, #9c254d, #d23369);
+    background-image: -ms-linear-gradient(top, #9c254d, #d23369);
+    background-image: -o-linear-gradient(top, #9c254d, #d23369);
+    background-image: linear-gradient(to bottom, #9c254d, #d23369);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    font-family: sans-serif;
+    color: white;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #282a3a);
+    background-image: -moz-linear-gradient(top, #000000, #282a3a);
+    background-image: -ms-linear-gradient(top, #000000, #282a3a);
+    background-image: -o-linear-gradient(top, #000000, #282a3a);
+    background-image: linear-gradient(to bottom, #000000, #282a3a);
+    text-decoration: none;
+  }
+
+  .btn{
+    position: relative;
+    right: 15.6rem;
+    bottom: 13.5rem;
+  }
+
+  .downmain{
+    float: right;
+    position: relative;
+    bottom: 43.6rem;
+    text-align: left;
+    right: 5rem;
+    background-color: #000000;
+    color: white;
+    padding: 2rem;
+    height: 2;
+    line-height: 1.2;
+    width: 26%;
+  }
+
+  .hh{
+    width: 90%;
+    color: gray;
+  }
+
+  .line{
+    height: 1px;
+    border-style: none;
+    border-top-style: solid;
+  }
+
+  .afa{
+    width:88%;
+    color: gray;
+  }
+
+  .hhhh{
+    color: #c69749;
+    font-family: sans-serif;
+  }
+
+  h2:hover{
+    color: #c69749;
+  }
+
+  .ffa{
+    color: gray;
+  }
+
+  .footer:hover{
+    color: #c69749;
+  }
+
+  .dvmain{
+    float:left;
+    text-align: left;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    right: 50rem;
+    width: 90%;
+    top: 33.5rem;
+  }
+
+  .imgretro{
+    position: relative;
+    float: left;
+    background-color: white;
+    text-align: left;
+    width: 35%;
+    top: 4rem;
+    left: 2.7rem;
+  }
+
+  .mmh{
+    position: relative;
+    top: 2.5rem;
+    left:3.6rem;
+    padding-bottom: 1rem;
+    color: gray;
+  }
+
+  .mm3{
+    position: absolute;
+    color: #000000;
+    left: 11.5rem;
+    width: 60%;
+    padding-bottom: 16px;
+   }
+
+  .mmp{
+    position: absolute;
+    color: gray;
+    left: 11.5rem;
+    top: 8rem;
+    width:67%;
+    line-height: 2;
+    padding-bottom: 1rem;
+  }
+
+  .keys{
+    position: absolute;
+    width: 35%;
+    float: left;
+    left: 26.5rem;
+    top: 4rem;
+  }
+
+  .amh{
+    position: absolute;
+    left: 35rem;
+    bottom: 1.9rem;
+    color: gray;
+  }
+
+  .toplap{
+    position: absolute;
+    color: #000000;
+    left: 35rem;
+    width: 90%;
+    top: 6rem;
+  }
+
+  #lastpa{
+    position: absolute;
+    left: 35.15rem;
+    color:gray ;
+    width: 60%;
+    top: 8rem;
+    line-height: 2;
+  }
+
+  .imggrowth{
+    position: absolute;
+    width: 35%;
+    left: 49.5rem;
+    top: 4rem;
+  }
+
+  .lmh{
+    position: absolute;
+    color: gray;
+    left: 58rem;
+    bottom: 1.7rem;
+  }
+
+  .lmh3{
+    position: absolute;
+    color: #000000;
+    left: 58rem;
+    width: 90%;
+  }
+
+  .llpara{
+    position: absolute;
+    color: gray;
+    left: 58.1rem;
+    width: 70%;
+    top: 8rem;
+    line-height: 2;
+  }
